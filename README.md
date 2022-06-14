@@ -2,7 +2,7 @@
 
 ## 1.1. 서비스 이름
 
-### **MILC**
+### **MILC(Melt In Luxury Collection)**
 
 ```
 - 명품 디지털 인증서 발급과 자유로운 NFT 거래 플랫폼
